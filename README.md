@@ -17,6 +17,6 @@
 
 **More resources:**
 1. Facebook/twitter
-2. Other interwiews
+2. Other interviews
 3. Books/articles
 
