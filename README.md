@@ -36,7 +36,7 @@
 2. Collected sentences contain not less than 7 words with a lot of scientific termins related to Elon Musk(Colonization, Mars, etc.).
 
 **Test code**
-1. To test this code you need to download and install:
+1. To test this code you need to __download__ and __install__:
 	1. Google Chrome
 	2. chromedriver
 	3. selenium
