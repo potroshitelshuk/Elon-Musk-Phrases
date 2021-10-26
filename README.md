@@ -5,7 +5,9 @@
 	1. **Process:** Download transcripts in txt format by using free cloud service. Divide them on Elon Musk and speaker phrases if Elon Musk wasnot the only speaker.(Elon Musk - "Elon Musk:" in paragraph)
 2. Data5 was collected using selenium. 
 	1. **Process:** Open link, click 'read more' button, collect all paragraphs then divide them on Elon Musk and speaker phrases.(Speaker - "?" in the end of sentence and word count < 10)
+
 **NEW!**
+
 3. Data{6 & 7} were collected from podcasts with Joe Rogan and Elon Musk. 
 	1. **Process:** Open link, collect all paragraphs, divide them into Elon Musk and speaker phrases.(Elon Musk - "Elon Musk:" in paragraph)
 **NEW!**
@@ -21,8 +23,10 @@
 2. Data2 - [link](https://www.youtube.com/watch?v=IgKWPdJWuBQ&t=21s)[Элон Маск: Элон Маск: Человек, создавший Tesla, SpaceX, SolarCity...]
 3. Data3 - [link](https://www.youtube.com/watch?v=zIwLWfaAg-8)[Elon Musk: The future we're building -- and boring | TED]
 4. Data4 - [link](https://www.youtube.com/watch?v=H7Uyfqi_TE8)[Making Humans a Multiplanetary Species]
-5. Data5 - [link](https://www.englishspeecheschannel.com/english-speeches/elon-musk-speech/)[Elon Musk 
+5. Data5 - [link](https://www.englishspeecheschannel.com/english-speeches/elon-musk-speech/)[Elon Musk Speech: Future, A.I., and Mars]
+
 **NEW!** 
+
 6. Data6 - [link](https://www.rev.com/blog/transcripts/joe-rogan-elon-musk-podcast-transcript-may-7-2020)
 7. Data7 - [link](https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
 Speech: Future, A.I., and Mars]
