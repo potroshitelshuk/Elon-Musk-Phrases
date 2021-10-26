@@ -27,10 +27,8 @@
 
 **NEW!** 
 
-
-
-6. Data6 - [link](https://www.rev.com/blog/transcripts/joe-rogan-elon-musk-podcast-transcript-may-7-2020)
-7. Data7 - [link](https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)
+6. Data6 - [link](https://www.rev.com/blog/transcripts/joe-rogan-elon-musk-podcast-transcript-may-7-2020)[Joe Rogan Elon Musk Podcast Transcript May 7, 2020]
+7. Data7 - [link](https://sonix.ai/resources/full-transcript-joe-rogan-experience-elon-musk/)[Full Transcript: Joe Rogan Experience #1169 – Elon Musk]
 
 
 **Results:**
